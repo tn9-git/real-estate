@@ -110,3 +110,8 @@ For high-resolution neighborhood borders:
 2.  **Join:** Join to `TX_score_tract.csv` on **`GEOID`** (JSON) = **`geoid`** (CSV).
 3.  **Map:** Double-click the **Geometry** field.
 4.  **Quick Role:** Alternatively, right-click `geoid` -> **Geographic Role** -> **Census Tract** to use Tableau's built-in boundaries.
+
+Here is links to check tract profile 
+https://censusreporter.org/profiles/14000US48113014126-census-tract-14126-dallas-tx/
+
+
